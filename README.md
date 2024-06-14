@@ -54,5 +54,5 @@ The base URL for accessing the API endpoints is `/api/v1`.
 - **MongoDB**: Selected as the database due to its flexibility and scalability, suitable for an E-Commerce application where data needs to be stored and queried efficiently.
 - **JWT Authentication**: Implemented JSON Web Token (JWT) authentication to secure the API endpoints and allow access to authorized users only.
 - **RESTful Architecture**: Designed the API endpoints following RESTful principles for better organization and maintainability.
-
+ Contact syedalijibranrizvi@gmail.com
 ---
